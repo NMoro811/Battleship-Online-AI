@@ -21,5 +21,5 @@ Learning purposes: Develop an intermediate-level Python app, learn how to use Py
 * Add music and sounds
 * Add the 'Options' function to change music volume and other settings
 * Customise the game design, make it more visually appealing
-* Fix minor aesthetic issues
+* Fix minor aesthetic issues, e.g. centering the screen or overlap of some rectangles with the background
 * Improve the efficiency of the program where possible
